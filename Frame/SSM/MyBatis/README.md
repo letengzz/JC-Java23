@@ -26,7 +26,7 @@ iBatis一词来源于"internet"和"abatis"的组合，是一个基于Java的持�
 
 - [MyBatis处理特殊操作](Advanced/special_operation.md)
 
-> MyBatis处理特殊操作：模糊查询、批量删除、动态设置表名、获取自增的主键、处理字段和属性的映射关系、各类查询功能
+> MyBatis处理特殊操作：模糊查询、批量删除、动态设置表名、获取自增的主键、处理字段和属性的映射关系、各类查询功能、批量插入大量数据
 
 - [MyBatis注解](Advanced/mybatis_annotation.md)
 
