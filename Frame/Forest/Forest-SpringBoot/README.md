@@ -1,8 +1,8 @@
-# Forest
+# Forest(SpringBoot)
 
 ![img](https://cdn.jsdelivr.net/gh/letengzz/Two-C@main/img/202307031041724.png)
 
-- [Forest 概述](forest_introduce.md)
+- [Forest 概述](../forest_introduce.md)
 - [Forest 安装、使用](forest_install.md)
 
 - [Forest 配置](forest_settings.md)
